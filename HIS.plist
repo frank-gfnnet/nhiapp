@@ -13,14 +13,6 @@
 					<key>url</key>
 					<string>https://github.com/frank-gfnnet/nhiapp/blob/main/HIS.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://github.com/frank-gfnnet/nhiapp/blob/main/HIS.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
