@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/wd34g4fhgos4xn4/HIS.ipa</string>
+					<string>https://github.com/frank-gfnnet/nhiapp/blob/main/HIS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/q6di5plsbk8jpzj/HIS.png</string>
+					<string>https://github.com/frank-gfnnet/nhiapp/blob/main/HIS.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
